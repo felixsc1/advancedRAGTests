@@ -3,3 +3,8 @@ openai
 ipykernel
 diskcache
 diskcache-decorator
+langfuse
+tenacity
+pydantic
+pandas
+jinja2
