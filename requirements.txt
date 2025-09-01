@@ -8,3 +8,4 @@ tenacity
 pydantic
 pandas
 jinja2
+scikit-learn
